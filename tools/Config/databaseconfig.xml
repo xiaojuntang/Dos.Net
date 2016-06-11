@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<servers>
+  <server id="82fab2f8-efd5-4b3c-bea0-376630214c92" name="127.0.0.1(MySql)[all]" database="all" dbtype="MySql">
+    <connectionstring><![CDATA[server=127.0.0.1;user id=root; password=root; Port=3306;database=; pooling=false]]></connectionstring>
+  </server>
+  <server id="516806d4-ca72-4583-9032-4d331b090bbf" name="118.26.233.118(SQL Server2008)[all]" database="all" dbtype="SqlServer9">
+    <connectionstring><![CDATA[Data Source=118.26.233.118;Initial Catalog=master;User Id=Zxxk;Password=qw3e4t5-9o$9r^THeb6y5]]></connectionstring>
+  </server>
+</servers>
