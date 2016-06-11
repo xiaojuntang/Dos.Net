@@ -11,6 +11,8 @@ namespace Zxxk.Dos.UnitTest
         [TestMethod]
         public void TestMethod1()
         {
+            var list1 = AnswerService.Query(p => p.HomeWorkID == 1);
+
             Answer an = new Answer();
             an.HomeWorkID = 1;
             an.OpenID = "eeeeeeeeeeeeeeee";

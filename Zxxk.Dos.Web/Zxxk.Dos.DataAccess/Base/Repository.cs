@@ -29,9 +29,17 @@ namespace Zxxk.Dos.DataAccess
         {
             return Db.Context.From<T>().ToList();
         }
+
         /// <summary>
         /// 通用查询
         /// </summary>
+        /// <param name="where">条件</param>
+        /// <param name="orderBy">排序</param>
+        /// <param name="ascOrDesc">升降</param>
+        /// <param name="top"></param>
+        /// <param name="pageSize"></param>
+        /// <param name="pageIndex"></param>
+        /// <returns></returns>
         public static List<T> Query(Expression<Func<T, bool>> where, Expression<Func<T, object>> orderBy = null, string ascOrDesc = "asc", int? top = null, int? pageSize = null, int? pageIndex = null)
         {
             var fs = Db.Context.From<T>().Where(where);
