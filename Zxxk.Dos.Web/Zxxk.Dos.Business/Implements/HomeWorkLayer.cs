@@ -11,6 +11,7 @@ namespace Zxxk.Dos.Business
     {
         public string GetUserHomeWrok()
         {
+            var a = AnswerService.GetListBySql(1);
             AnswerService.GetList(1);
             return "";
         }

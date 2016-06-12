@@ -18,5 +18,12 @@ namespace Zxxk.Dos.DataAccess
         {
             return Query(p => p.HomeWorkID == homeWorkId);
         }
+
+        public static List<Answer> GetListBySql(int homeWorkId)
+        {
+            StringBuilder commandText = new StringBuilder();
+            commandText.AppendFormat("select * from TX_Answer");
+            return Db.Context.FromSql(commandText.ToString()).ToList<Answer>();
+        }
     }
 }
