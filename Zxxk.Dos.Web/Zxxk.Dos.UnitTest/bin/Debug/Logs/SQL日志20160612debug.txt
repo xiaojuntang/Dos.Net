@@ -1,0 +1,15 @@
+2016-06-12 09:14:36
+Text:	 SELECT   * FROM [TX_Answer]  WHERE [TX_Answer].[HomeWorkID] = @HomeWorkID1 	
+Parameters:
+@HomeWorkID1[Int32] = 1
+
+
+-----------------------------------------------------------------------------
+2016-06-12 09:14:37
+Text:	INSERT INTO [TX_Answer] ([OpenID],[HomeWorkID]) VALUES (@OpenID2,@HomeWorkID3);select scope_identity()	
+Parameters:
+@OpenID2[String] = eeeeeeeeeeeeeeee
+@HomeWorkID3[Int32] = 1
+
+
+-----------------------------------------------------------------------------

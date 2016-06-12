@@ -1,0 +1,11 @@
+E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.DataAccess\bin\Debug\Zxxk.Dos.DataAccess.dll
+E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.DataAccess\bin\Debug\Zxxk.Dos.DataAccess.pdb
+E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.DataAccess\bin\Debug\Dos.Common.dll
+E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.DataAccess\bin\Debug\Dos.ORM.dll
+E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.DataAccess\bin\Debug\Zxxk.Dos.DataModel.dll
+E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.DataAccess\bin\Debug\Zxxk.Dos.DataModel.pdb
+E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.DataAccess\bin\Debug\Dos.Common.xml
+E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.DataAccess\bin\Debug\Dos.ORM.xml
+E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.DataAccess\obj\Debug\Zxxk.Dos.DataAccess.csprojResolveAssemblyReference.cache
+E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.DataAccess\obj\Debug\Zxxk.Dos.DataAccess.dll
+E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.DataAccess\obj\Debug\Zxxk.Dos.DataAccess.pdb

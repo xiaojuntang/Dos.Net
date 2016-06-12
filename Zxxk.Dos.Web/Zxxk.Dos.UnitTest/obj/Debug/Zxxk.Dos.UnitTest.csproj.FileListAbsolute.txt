@@ -1,0 +1,16 @@
+E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.UnitTest\bin\Debug\Zxxk.Dos.UnitTest.dll.config
+E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.UnitTest\bin\Debug\Zxxk.Dos.UnitTest.dll
+E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.UnitTest\bin\Debug\Zxxk.Dos.UnitTest.pdb
+E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.UnitTest\bin\Debug\Dos.Common.dll
+E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.UnitTest\bin\Debug\Dos.ORM.dll
+E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.UnitTest\bin\Debug\Zxxk.Dos.DataAccess.dll
+E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.UnitTest\bin\Debug\Zxxk.Dos.DataModel.dll
+E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.UnitTest\bin\Debug\Zxxk.Dos.DataAccess.pdb
+E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.UnitTest\bin\Debug\Zxxk.Dos.DataModel.pdb
+E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.UnitTest\bin\Debug\Dos.Common.xml
+E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.UnitTest\bin\Debug\Dos.ORM.xml
+E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.UnitTest\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.UnitTest\obj\Debug\Zxxk.Dos.UnitTest.csprojResolveAssemblyReference.cache
+E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.UnitTest\obj\Debug\Zxxk.Dos.UnitTest.dll
+E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.UnitTest\obj\Debug\Zxxk.Dos.UnitTest.pdb

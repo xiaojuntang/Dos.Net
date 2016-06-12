@@ -1,0 +1,5 @@
+E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.Business\bin\Debug\Zxxk.Dos.Business.dll
+E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.Business\bin\Debug\Zxxk.Dos.Business.pdb
+E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.Business\obj\Debug\Zxxk.Dos.Business.csprojResolveAssemblyReference.cache
+E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.Business\obj\Debug\Zxxk.Dos.Business.dll
+E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.Business\obj\Debug\Zxxk.Dos.Business.pdb
