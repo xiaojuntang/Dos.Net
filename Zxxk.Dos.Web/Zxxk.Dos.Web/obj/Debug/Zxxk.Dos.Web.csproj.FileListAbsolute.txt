@@ -85,3 +85,4 @@ E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.Web\bin\zh-Hans\Microsoft.Owin.Security
 E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.Web\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
 E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.Web\obj\Debug\Zxxk.Dos.Web.dll
 E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.Web\obj\Debug\Zxxk.Dos.Web.pdb
+E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.Web\obj\Debug\Zxxk.Dos.Web.csprojResolveAssemblyReference.cache

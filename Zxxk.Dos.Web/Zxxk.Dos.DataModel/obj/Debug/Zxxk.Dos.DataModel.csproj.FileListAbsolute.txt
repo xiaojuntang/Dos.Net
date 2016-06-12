@@ -6,3 +6,4 @@ E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.DataModel\bin\Debug\Dos.Common.xml
 E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.DataModel\bin\Debug\Dos.ORM.xml
 E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.DataModel\obj\Debug\Zxxk.Dos.DataModel.dll
 E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.DataModel\obj\Debug\Zxxk.Dos.DataModel.pdb
+E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.DataModel\obj\Debug\Zxxk.Dos.DataModel.csprojResolveAssemblyReference.cache
