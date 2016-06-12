@@ -20,6 +20,7 @@ namespace Zxxk.Dos.DataAccess
                 LogHelper.Debug(sql, "SQL日志");
             });
         }
+
         #region 查询
         /// <summary>
         /// 获取整表数据
@@ -64,9 +65,17 @@ namespace Zxxk.Dos.DataAccess
             }
             return fs.ToList();
         }
+        
         /// <summary>
         /// 通用查询
         /// </summary>
+        /// <param name="where"></param>
+        /// <param name="orderBy"></param>
+        /// <param name="ascOrDesc"></param>
+        /// <param name="top"></param>
+        /// <param name="pageSize"></param>
+        /// <param name="pageIndex"></param>
+        /// <returns></returns>
         public static List<T> Query(Where<T> where, Expression<Func<T, object>> orderBy = null, string ascOrDesc = "asc", int? top = null, int? pageSize = null, int? pageIndex = null)
         {
             var fs = Db.Context.From<T>().Where(where);
@@ -91,9 +100,17 @@ namespace Zxxk.Dos.DataAccess
             }
             return fs.ToList();
         }
+        
         /// <summary>
         /// 通用查询
         /// </summary>
+        /// <param name="where"></param>
+        /// <param name="orderBy"></param>
+        /// <param name="ascOrDesc"></param>
+        /// <param name="top"></param>
+        /// <param name="pageSize"></param>
+        /// <param name="pageIndex"></param>
+        /// <returns></returns>
         public static List<T> Query(Where<T> where, OrderByClip orderBy = null, string ascOrDesc = "asc", int? top = null, int? pageSize = null, int? pageIndex = null)
         {
             var fs = Db.Context.From<T>().Where(where);
@@ -111,9 +128,17 @@ namespace Zxxk.Dos.DataAccess
             }
             return fs.ToList();
         }
+        
         /// <summary>
         /// 通用查询
         /// </summary>
+        /// <param name="where"></param>
+        /// <param name="orderBy"></param>
+        /// <param name="ascOrDesc"></param>
+        /// <param name="top"></param>
+        /// <param name="pageSize"></param>
+        /// <param name="pageIndex"></param>
+        /// <returns></returns>
         public static T First(Expression<Func<T, bool>> where, Expression<Func<T, object>> orderBy = null, string ascOrDesc = "asc", int? top = null, int? pageSize = null, int? pageIndex = null)
         {
             var fs = Db.Context.From<T>().Where(where);
@@ -136,9 +161,17 @@ namespace Zxxk.Dos.DataAccess
             var model = fs.First();
             return model;
         }
+        
         /// <summary>
         /// 通用查询
         /// </summary>
+        /// <param name="where"></param>
+        /// <param name="orderBy"></param>
+        /// <param name="ascOrDesc"></param>
+        /// <param name="top"></param>
+        /// <param name="pageSize"></param>
+        /// <param name="pageIndex"></param>
+        /// <returns></returns>
         public static T First(Where<T> where, Expression<Func<T, object>> orderBy = null, string ascOrDesc = "asc", int? top = null, int? pageSize = null, int? pageIndex = null)
         {
             var fs = Db.Context.From<T>().Where(where);
@@ -160,6 +193,7 @@ namespace Zxxk.Dos.DataAccess
             }
             return fs.First();
         }
+        
         /// <summary>
         /// 根据条件判断是否存在数据
         /// </summary>
@@ -169,13 +203,17 @@ namespace Zxxk.Dos.DataAccess
         {
             return Db.Context.Exists<T>(where);
         }
+        
         /// <summary>
         /// 取总数
         /// </summary>
+        /// <param name="where"></param>
+        /// <returns></returns>
         public static int Count(Expression<Func<T, bool>> where)
         {
             return Db.Context.From<T>().Where(where).Count();
         }
+        
         /// <summary>
         /// 取总数
         /// </summary>

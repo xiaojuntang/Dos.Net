@@ -13,5 +13,10 @@ namespace Zxxk.Dos.DataAccess
         {
 
         }
+
+        public static List<Answer> GetList(int homeWorkId)
+        {
+            return Query(p => p.HomeWorkID == homeWorkId);
+        }
     }
 }

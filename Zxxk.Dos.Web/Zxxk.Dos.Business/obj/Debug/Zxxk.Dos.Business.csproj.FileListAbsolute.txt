@@ -3,3 +3,11 @@ E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.Business\bin\Debug\Zxxk.Dos.Business.pd
 E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.Business\obj\Debug\Zxxk.Dos.Business.csprojResolveAssemblyReference.cache
 E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.Business\obj\Debug\Zxxk.Dos.Business.dll
 E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.Business\obj\Debug\Zxxk.Dos.Business.pdb
+E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.Business\bin\Debug\Zxxk.Dos.DataAccess.dll
+E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.Business\bin\Debug\Zxxk.Dos.DataModel.dll
+E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.Business\bin\Debug\Dos.ORM.dll
+E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.Business\bin\Debug\Dos.Common.dll
+E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.Business\bin\Debug\Zxxk.Dos.DataAccess.pdb
+E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.Business\bin\Debug\Zxxk.Dos.DataModel.pdb
+E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.Business\bin\Debug\Dos.ORM.xml
+E:\T.X.Jun\dos.net\Zxxk.Dos.Web\Zxxk.Dos.Business\bin\Debug\Dos.Common.xml

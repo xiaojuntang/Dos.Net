@@ -50,11 +50,11 @@
   <ItemGroup>
     <Compile Include="Entity\Answer.cs" />
     <Compile Include="Entity\HomeWork.cs" />
+    <Compile Include="Extend\Answer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Base\" />
-    <Folder Include="Extend\" />
     <Folder Include="ViewModel\" />
   </ItemGroup>
   <ItemGroup>

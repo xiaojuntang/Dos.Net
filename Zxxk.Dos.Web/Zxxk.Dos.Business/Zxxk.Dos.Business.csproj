@@ -40,11 +40,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Implements\HomeWorkLayer.cs" />
+    <Compile Include="Interface\IHomeWrokLayer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
-    <Folder Include="Implements\" />
-    <Folder Include="Interface\" />
+    <ProjectReference Include="..\Zxxk.Dos.DataAccess\Zxxk.Dos.DataAccess.csproj">
+      <Project>{4afd4c14-f95c-4977-8162-2fed66baa38d}</Project>
+      <Name>Zxxk.Dos.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Zxxk.Dos.DataModel\Zxxk.Dos.DataModel.csproj">
+      <Project>{7237170a-e0ba-4003-badf-5e4f57d27272}</Project>
+      <Name>Zxxk.Dos.DataModel</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
